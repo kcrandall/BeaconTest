@@ -1,0 +1,14 @@
+/Users/k_man/Documents/GitHub/BeaconTest/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Xml.dll
+/Users/k_man/Documents/GitHub/BeaconTest/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/k_man/Documents/GitHub/BeaconTest/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.Forms.Platform.dll
+/Users/k_man/Documents/GitHub/BeaconTest/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+/Users/k_man/Documents/GitHub/BeaconTest/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/BeaconTest.iOS.exe
+/Users/k_man/Documents/GitHub/BeaconTest/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/BeaconTest.dll
+/Users/k_man/Documents/GitHub/BeaconTest/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/k_man/Documents/GitHub/BeaconTest/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Core.dll
+/Users/k_man/Documents/GitHub/BeaconTest/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+/Users/k_man/Documents/GitHub/BeaconTest/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.Forms.Core.dll
+/Users/k_man/Documents/GitHub/BeaconTest/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Calabash.dll
+/Users/k_man/Documents/GitHub/BeaconTest/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Runtime.Serialization.dll
+/Users/k_man/Documents/GitHub/BeaconTest/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Net.Http.dll
+/Users/k_man/Documents/GitHub/BeaconTest/iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Mono.Dynamic.Interpreter.dll

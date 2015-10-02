@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="iOS/BeaconTest.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Kes' iPhone 6" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BeaconTest/Models/BeaconModel.cs">
+    <Files>
+      <File FileName="BeaconTest/Models/BeaconModel.cs" Line="133" Column="6" />
+      <File FileName="BeaconTest/IBeaconHandling.cs" Line="15" Column="5" />
+      <File FileName="iOS/BeaconHandling_iOS.cs" Line="45" Column="19" />
+      <File FileName="BeaconTest/FirstPage.cs" Line="64" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

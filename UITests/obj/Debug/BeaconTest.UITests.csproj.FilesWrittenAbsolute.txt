@@ -1,0 +1,7 @@
+/Users/k_man/Documents/GitHub/BeaconTest/UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/k_man/Documents/GitHub/BeaconTest/UITests/bin/Debug/BeaconTest.UITests.dll.mdb
+/Users/k_man/Documents/GitHub/BeaconTest/UITests/bin/Debug/BeaconTest.UITests.dll
+/Users/k_man/Documents/GitHub/BeaconTest/UITests/obj/Debug/BeaconTest.UITests.dll
+/Users/k_man/Documents/GitHub/BeaconTest/UITests/obj/Debug/BeaconTest.UITests.dll.mdb
+/Users/k_man/Documents/GitHub/BeaconTest/UITests/bin/Debug/nunit.framework.dll
+/Users/k_man/Documents/GitHub/BeaconTest/UITests/bin/Debug/Xamarin.UITest.dll
